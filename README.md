@@ -1,4 +1,5 @@
 # Ruby-PL-Pressure-Calibration-GUI
-An on-demand GUI for pressure calibrations using dual ruby photoluminescence spectra. Temperature corrections available based on user input.
+An on-demand GUI for pressure calibrations using dual ruby photoluminescence spectra. Temperature corrections are available based on user input.
+Multiple versions will be available for users that need a simple calibration, a dual calibration, or a calibration with a temperature correction.
 
-Will be updated by August 22nd, 2025.
+Will be updated by September 2025.
